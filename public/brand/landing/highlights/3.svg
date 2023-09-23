@@ -1,0 +1,28 @@
+<svg width="291" height="290" viewBox="0 0 291 290" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.350586" width="290.436" height="289.675" fill="url(#paint0_linear_108_117)"/>
+<circle cx="145.568" cy="145.218" r="134.574" fill="#FF914D"/>
+<rect x="43" y="90.9619" width="128" height="52.5769" rx="26.2885" transform="rotate(-12.1596 43 90.9619)" fill="url(#paint1_linear_108_117)"/>
+<text x="90" y="125" transform="rotate(-12.1596 43 90.9619)" font-family="Arial" font-size="20" fill="white">EAT</text>
+<rect x="130.565" y="107.569" width="128.557" height="52.5769" rx="26.2885" transform="rotate(5.4769 130.565 107.569)" fill="url(#paint2_linear_108_117)"/>
+<text x="160" y="140" transform="rotate(5.4769 130.565 107.569)" font-family="Arial" font-size="20" fill="white">ORDER</text>
+<rect x="90.4785" y="169.516" width="128" height="52.5769" rx="26.2885" transform="rotate(-6.12911 90.4785 169.516)" fill="url(#paint3_linear_108_117)"/>
+<text x="110" y="203" transform="rotate(-6.12911 90.4785 169.516)" font-family="Arial" font-size="20" fill="white">DELIVER</text>
+<defs>
+<linearGradient id="paint0_linear_108_117" x1="154.5" y1="297" x2="146" y2="-17.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFDB58"/>
+<stop offset="1" stop-color="#FF914D"/>
+</linearGradient>
+<linearGradient id="paint1_linear_108_117" x1="107" y1="90.9619" x2="107" y2="143.539" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFDB58"/>
+<stop offset="1" stop-color="#FF914D"/>
+</linearGradient>
+<linearGradient id="paint2_linear_108_117" x1="194.844" y1="107.569" x2="194.844" y2="160.146" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFDB58"/>
+<stop offset="1" stop-color="#FF914D"/>
+</linearGradient>
+<linearGradient id="paint3_linear_108_117" x1="154.479" y1="169.516" x2="154.479" y2="222.093" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFDB58"/>
+<stop offset="1" stop-color="#FF914D"/>
+</linearGradient>
+</defs>
+</svg>
