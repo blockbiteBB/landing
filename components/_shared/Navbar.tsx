@@ -27,9 +27,12 @@ const NavBar = () => {
                 ))}
             </div>
             <div className="hidden items-center justify-end gap-2.5 lg:flex xl:gap-5">
-                <GenericButton border={true} className="bg-transparent text-xs font-semibold !text-white lg:text-sm xl:text-base">
-                    Launch App
-                </GenericButton>
+                <a target="_blank" href="https://ethereats-dapp.vercel.app/" rel="noopener noreferrer">
+                    <GenericButton border={true} className="bg-transparent text-xs font-semibold !text-white lg:text-sm xl:text-base">
+                        Launch App
+                    </GenericButton>
+                </a>
+
                 <GenericButton border={true} className="!border-brand-app-orange bg-brand-app-orange text-xs font-semibold lg:text-sm xl:text-base">
                     Apply
                 </GenericButton>

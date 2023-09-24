@@ -12,10 +12,12 @@ const BurgerMenuModal = () => {
                     </div>
                 ))}
                 <div className="flex flex-col items-center gap-5">
-                    <GenericButton border={true} className="w-40 !border-black bg-black text-base font-semibold !text-white">
-                        Launch App
-                    </GenericButton>
-                    <GenericButton border={true} className="!border-brand-app-orange bg-brand-app-orange w-40 text-base font-semibold">
+                    <a target="_blank" href="https://ethereats-dapp.vercel.app/" rel="noopener noreferrer">
+                        <GenericButton border={true} className="w-40 !border-black bg-black text-base font-semibold !text-white">
+                            Launch App
+                        </GenericButton>
+                    </a>
+                    <GenericButton border={true} className="w-40 !border-brand-app-orange bg-brand-app-orange text-base font-semibold">
                         Apply
                     </GenericButton>
                 </div>
