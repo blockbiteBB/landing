@@ -16,7 +16,7 @@ const ThirdSection = () => {
             <div className="mt-3 font-chillax text-3xl font-semibold leading-[58px] md:text-4xl xl:text-5xl">Food delivery solution</div>
             <div className="mt-3 text-xl font-bold xl:text-2xl">No more high fees</div>
             <div className="mt-5 text-lg font-medium leading-[33px] xl:text-xl">
-                We are building a food delivery solution that will be powered by the blockbite token. This will allow us to offer the lowest fees in
+                We are building a food delivery solution that will be powered by the EthersEat token. This will allow us to offer the lowest fees in
                 the market. Giving the power back to delivery drivers, restaurants and customers.
             </div>
             <div className="mt-6 text-lg font-bold xl:text-xl">How it works?</div>
@@ -43,7 +43,7 @@ const ThirdSection = () => {
             <div className="relative">
                 <Image src="/brand/food.png" className="aspect-square rounded-full" width={370} height={370} alt="barcelona" />
                 <GenericButton className="absolute -right-4 bottom-14 w-fit -rotate-[8deg] bg-btn font-sourceCodePro font-semibold uppercase !text-white md:-right-10">
-                    #blockbiteETH
+                    #EthersEatETH
                 </GenericButton>
                 <Image
                     src="/brand/arrows/hero-arrow.svg"

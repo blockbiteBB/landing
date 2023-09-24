@@ -15,13 +15,13 @@ const NavBar = () => {
                             <span className="h-2 w-8 rounded-full bg-red-600"></span>
                             <div className="-rotate-90 text-[#FF914D]">B</div>
                         </div>
-                        <div className="font-chillax text-xl font-bold tracking-wider xl:text-2xl">blockbite</div>
+                        <div className="font-chillax text-xl font-bold tracking-wider xl:text-2xl">EthersEat</div>
                     </div>
                 </Link>
             </div>
             <div className="hidden items-center justify-between gap-3 text-sm font-semibold capitalize lg:flex lg:text-base">
                 {navMenu.map((item) => (
-                    <div key={item} className="hover:text-brand-app-orange transform cursor-pointer transition-transform hover:scale-110">
+                    <div key={item} className="transform cursor-pointer transition-transform hover:scale-110 hover:text-brand-app-orange">
                         {item}
                     </div>
                 ))}

@@ -1,4 +1,4 @@
-# BlockBite Landing Page
+# EthersEat Landing Page
 
 Welcome to the official repository for the landing page of our decentralized food delivery application powered by blockchain!
 

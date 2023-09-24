@@ -4,7 +4,7 @@ import Image from "next/image";
 const SecondSection = () => {
     return (
         <div className="w-full bg-[#F0F0F0] px-6 py-20 text-brand-black md:px-12 lg:px-20 xl:px-32">
-            <div className="font-sourceCodePro text-lg font-normal uppercase xl:text-xl">are you gonna use blockbite?</div>
+            <div className="font-sourceCodePro text-lg font-normal uppercase xl:text-xl">are you gonna use EthersEat?</div>
             <div className="mt-2 font-chillax text-3xl font-semibold leading-[43px] md:text-4xl xl:text-5xl xl:leading-[58px]">
                 Changing the way web3 people
                 <br />
